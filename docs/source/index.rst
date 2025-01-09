@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+LuongSon - Xem bóng đá miễn phí, không quảng cáo, chất lượng HD 
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`LuongSon <https://luongsontv5.com/>`_ là nền tảng trực tiếp bóng đá hàng đầu tại Việt Nam, mang đến trải nghiệm xem bóng miễn phí, không quảng cáo, với chất lượng HD và đường truyền mượt mà. LuongSon được xây dựng bởi đội ngũ chuyên gia tâm huyết, sử dụng công nghệ tiên tiến để đảm bảo hình ảnh sắc nét, cập nhật thông tin nhanh chóng và bảo mật dữ liệu người dùng. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Với hàng ngàn trận đấu phát sóng liên tục 24/7, bình luận viên đa phong cách, cùng cộng đồng người xem sôi động, LuongSon không chỉ là nơi thưởng thức bóng đá mà còn là không gian kết nối đam mê cho hàng triệu người hâm mộ tại Việt Nam và quốc tế.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 276 Đ. Vĩnh Viễn, Phường 4, Quận 10, Hồ Chí Minh, Việt Nam
 
-Contents
---------
+Phone: 0987.234.789
 
-.. toctree::
+Email: luongsontv5@gmail.com
 
-   usage
-   api
+Website: https://luongsontv5.com/ 
+
+#luongson #luongsontv #bongdaluongson #dangkyluongson #tructiepbongda #xembongda_luongson
